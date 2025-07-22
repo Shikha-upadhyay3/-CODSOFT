@@ -1,4 +1,4 @@
-# todo.py
+# CodSoft Internship - Task 1: To-Do List Application
 
 tasks = []
 
