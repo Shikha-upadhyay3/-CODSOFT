@@ -43,3 +43,15 @@ Here you will find my Python projects completed as part of the CodSoft Internshi
    ```bash
    git clone https://github.com/Shikha-upadhyay3/-CODSOFT.git
    cd -CODSOFT
+   To run Task 1 (To-Do List Application):
+python todo.py
+To run Task 2 (Simple Calculator):
+python calculator.py
+To run Task 3 (Password Generator):
+python password_generator.py
+To run Task 4 (Rock-Paper-Scissors Game):
+python rock_paper_scissors.py
+
+
+
+
