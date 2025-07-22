@@ -35,6 +35,16 @@ Here you will find my Python projects completed as part of the CodSoft Internshi
   - Game determines and displays the winner
   - Option to play multiple rounds with score tracking (optional)
 
+### Task 5: Contact Book
+- A contact book to store and manage contacts.
+- Features:
+  - Store name, phone number, email, and address
+  - Add new contacts
+  - View list of contacts
+  - Search contacts by name or phone number
+  - Update and delete contacts
+  - User-friendly interface for easy interaction
+
 ---
 
 ## How to run each project
@@ -43,15 +53,8 @@ Here you will find my Python projects completed as part of the CodSoft Internshi
    ```bash
    git clone https://github.com/Shikha-upadhyay3/-CODSOFT.git
    cd -CODSOFT
-   To run Task 1 (To-Do List Application):
-python todo.py
-To run Task 2 (Simple Calculator):
-python calculator.py
-To run Task 3 (Password Generator):
-python password_generator.py
-To run Task 4 (Rock-Paper-Scissors Game):
-python rock_paper_scissors.py
-
-
-
-
+python todo.py            # Task 1: To-Do List Application
+python calculator.py      # Task 2: Simple Calculator
+python password_generator.py  # Task 3: Password Generator
+python rock_paper_scissors.py # Task 4: Rock-Paper-Scissors Game
+python contact_book.py    # Task 5: Contact Book
